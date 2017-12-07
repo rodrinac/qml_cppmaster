@@ -1,6 +1,6 @@
 **Playlist: Tutoriais QML**
 
-[Youtube Link](http://youtube.com/cppmaster).
+[Youtube Link](https://www.youtube.com/playlist?list=PL0meOoSt675fsoEzDE-QFit_9ga9bAs2K).
 
 #### PT
 
