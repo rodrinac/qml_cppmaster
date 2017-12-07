@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>homem_de_ferro.jpg</file>
+        <file>naruto.gif</file>
+    </qresource>
+</RCC>
