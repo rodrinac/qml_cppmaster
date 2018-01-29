@@ -2,9 +2,9 @@
 
 #### PT
 
-Você deve usar [Qbs](http://doc.qt.io/qbs) para compilar.
+Você deve usar [QMLScene](http://doc.qt.io/qt-5/qtquick-qmlscene.html) para executar.
 - - -
 #### EN
 
-You have to use [Qbs](http://doc.qt.io/qbs) to build.
+You have to use [QMLScene](http://doc.qt.io/qt-5/qtquick-qmlscene.html)  to run.
 
